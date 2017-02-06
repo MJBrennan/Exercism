@@ -1,0 +1,14 @@
+{
+    "name": "michael/phoneno",
+    "description": "Simple App",
+    "authors": [
+        {
+            "name": "MJBrennan",
+            "email": "mike7149@gmail.com"
+        }
+    ],
+    "require": {
+
+    	"phpunit/phpunit": "3.7.0"
+    }
+}
